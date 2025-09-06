@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4a9bba62c6a2a548867f16e9f359da5
+timeCreated: 1488359139
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126151
+  packageName: Nuitrack AR Football Game
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/Android/assets/oculussig_02157df2990ed401
+  uploadId: 271901
