@@ -8,6 +8,8 @@ TagManager:
   - Hand
   - Door
   - kill
+  - kill2
+  - Plataforma
   layers:
   - Default
   - TransparentFX
