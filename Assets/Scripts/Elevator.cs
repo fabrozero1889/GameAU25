@@ -10,6 +10,7 @@ public class Elevator : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
             PlayElevator.enabled = true;
+        Elevation.Play();
         
 
     }
